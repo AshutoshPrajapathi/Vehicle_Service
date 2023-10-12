@@ -1,7 +1,7 @@
-vehicle_service
+# vehicle_service
 The primary goal of the TechTune Motors Website Development project is to create a robust, user-friendly, and visually appealing website that effectively represents the automotive garage's services, engages customers, and streamlines the appointment booking process. From a development perspective, this project involves several key components and considerations.
 
-ABOUT
+# ABOUT
 This project has a Public Module and Admin Module. The Admin module is the side of the project where can the management manage all the data recorded/will be recorded on the system. The admin can manage the list of vehicle categories that does the shop handles and other important and relative data for this project such as the mechanic list and service requests list. On the admin side, this side can be managed by the 2 types of users which are the admin and the staff whereas the staff user has only limited. On the public side, the clients can explore the list of services does the company/shops provide. The client can submit their service request at this side and the submitted request will be marked as pending. This simple project also generates a date-wise printable service request report.
 
 FEATURES
@@ -26,7 +26,7 @@ Manage Website Information
 
 Manage Account Credentials
 
-#public side
+# public side
 
 Home Page
 
@@ -44,7 +44,7 @@ Download and Install any local web server such as XAMPP/WAMP.
 
 Download the provided source code zip file. (code button is located above)
 
-Installation/Setup
+# Installation/Setup
 Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL.
 
 Extract the downloaded source code zip file.
